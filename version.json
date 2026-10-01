@@ -1,6 +1,6 @@
 {
-  "version": "17",
-  "download": "https://github.com/a519668/KaKin-Backup/releases/download/v17/KaKin_Backup_v17.zip",
-  "sha256": "199de499fe4d11bf54e9da8cd41325bfeea0d6fed06d39e9bdf82fcf0231b287",
-  "notes": "加入自動檢查更新與一鍵更新；備份進行中禁止更新，並驗證更新檔完整性。"
+  "version": "18",
+  "download": "https://github.com/a519668/KaKin-Backup/releases/download/v18/KaKin_Backup_v18.zip",
+  "sha256": "3597f35f44774a07442998c7abe6b1b5cbec4e403fae8993d5474eeda50c28ff",
+  "notes": "v18 自動更新測試版：用來驗證 v17 → v18 的一鍵更新、自動替換與重新啟動流程；備份核心功能不變。"
 }
