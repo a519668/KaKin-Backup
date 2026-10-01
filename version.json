@@ -1,6 +1,6 @@
 {
-  "version": "18.0",
-  "download": "https://github.com/a519668/KaKin-Backup/releases/download/v18/KaKin_Backup_v18.zip",
-  "sha256": "3597f35f44774a07442998c7abe6b1b5cbec4e403fae8993d5474eeda50c28ff",
-  "notes": "v18 自動更新測試版：用來驗證 v17 → v18 的一鍵更新、自動替換與重新啟動流程；備份核心功能不變。"
+  "version": "18.1.0",
+  "download": "https://github.com/a519668/KaKin-Backup/releases/download/v18.1/KaKin_Backup_v18.1_%E7%A9%A9%E5%AE%9A%E7%89%88%E5%80%99%E9%81%B8.zip",
+  "sha256": "e43d19f19008335c0b1aafd9919422117719710693cf95fc035485893a6e9af8",
+  "notes": "v18.1 穩定版候選：改善更新後重新啟動、版本管理與殘留後端程序處理，並延續已驗證成功的獨立更新器架構。"
 }
