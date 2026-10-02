@@ -1,6 +1,6 @@
 {
-  "version": "18.3.0",
-  "download": "https://github.com/a519668/KaKin-Backup/releases/download/v18.3/KaKin_Backup_v18.3.zip",
-  "sha256": "45076bf0f1dd2e184dd9975b1062aaaf0ae0e89c6f01356dd76ffd60fa408c0f",
-  "notes": "v18.3：記憶卡頁面預設隱藏容量 2 TB（含）以上裝置；勾選「顯示其他磁碟」後仍可手動顯示。"
+  "version": "18.10.0",
+  "download": "https://github.com/a519668/KaKin-Backup/releases/download/v18.10/KaKin_Backup_v18.10_.zip",
+  "sha256": "1bbc855479b6b50fe9e0b12c34feabc9db7fc03989db6eb977dc3485c38e90eb",
+  "notes": "v18.10：容量 0 B 的讀卡機空卡槽預設隱藏；保留插卡自動出現、拔卡自動消失、換卡資訊刷新、獨立與批次備份及卡片識別防呆。"
 }
