@@ -1,6 +1,6 @@
 {
-  "version": "18.2.0",
-  "download": "https://github.com/a519668/KaKin-Backup/releases/download/v18.2/KaKin_Backup_v18.2_.zip",
-  "sha256": "995174325f93530fe765be0903e52aff1dbfabb88bc2c5ec81f5ce4ccabea9f6",
-  "notes": "v18.2 更新測試版：專門驗證 v18.1 → v18.2 的完整自動更新、程式替換與重新啟動流程；備份核心功能不變。"
+  "version": "18.3.0",
+  "download": "https://github.com/a519668/KaKin-Backup/releases/download/v18.3/KaKin_Backup_v18.3.zip",
+  "sha256": "45076bf0f1dd2e184dd9975b1062aaaf0ae0e89c6f01356dd76ffd60fa408c0f",
+  "notes": "v18.3：記憶卡頁面預設隱藏容量 2 TB（含）以上裝置；勾選「顯示其他磁碟」後仍可手動顯示。"
 }
